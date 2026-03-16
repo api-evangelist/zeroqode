@@ -1,33 +1,38 @@
 aid: zeroqode
 name: Zeroqode
 description: >-
-  The only food API youll ever need! Complex food ontology, which allows us to
-  understand the relationships between ingredients, recipes, nutrition,
-  allergens, and more. 
+  Zeroqode is a leading no-code development platform and Bubble agency that
+  provides app templates, plugins, courses, and automation tools. It offers
+  800+ plugins for Bubble.io and documentation for integrating no-code
+  applications with various external services.
 type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
+  - No-Code
+  - Bubble
+  - Plugins
+  - App Development
 created: '2025-03-01'
-modified: '2025-03-01'
+modified: '2026-03-16'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/zeroqode/refs/heads/main/apis.yml
 specificationVersion: '0.19'
-apis:
-  - aid: zeroqode:zeroqode
-    name: Zeroqode
-    description: >-
-      The only food API youll ever need! Complex food ontology, which allows us
-      to understand the relationships between ingredients, recipes, nutrition,
-      allergens, and more. 
-    humanURL: https://zeroqode.com/
-    tags:
-      - API
-    properties:
-      - type: Documentation
-        url: https://zeroqode.com/
+apis: []
+common:
+  - url: https://zeroqode.com/
+    name: Zeroqode - No-Code Platform
+    type: Website
+    description: 'null'
+  - url: https://docs.zeroqode.com/
+    name: Zeroqode Docs
+    type: Documentation
+    description: 'null'
+  - url: https://zeroqode.com/plugins
+    name: Zeroqode Plugins for Bubble
+    type: Integrations
+    description: 'null'
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
