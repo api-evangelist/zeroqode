@@ -62,6 +62,8 @@ apis:
       mobile utilities, UI components, and automation tools. Plugins extend
       Bubble no-code applications with native-like capabilities without writing code.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/zeroqode
   - url: https://zeroqode.com/
     name: Zeroqode Website
     type: Website
