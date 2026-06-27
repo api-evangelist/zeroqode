@@ -78,7 +78,7 @@ common:
     description: Marketplace of 800+ Bubble plugins.
   - url: https://forum.zeroqode.com/
     name: Zeroqode Community Forum
-    type: Forum
+    type: Forums
     description: Community forum for Zeroqode users and developers.
   - url: https://github.com/zeroqode
     name: Zeroqode GitHub
